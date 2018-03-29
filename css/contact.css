@@ -1,0 +1,8 @@
+.main{height: 720px;text-align: center;}
+.main .text{height: 253px;}
+.main .text h3{height: 96px;line-height: 96px;font-size: 30px;font-weight: normal;padding-top: 57px;}
+.main .text p{height: 23px;line-height: 23px;font-size: 12px;color: #bfbfbf;}
+.main .form{width: 331px;height: 23px;background: #ededed;border-radius: 3px ;border: 1px solid #dcdbe0;margin-bottom: 24px;padding: 12px 17px;font-size: 16px;font-weight: bold;color: #b2b2b2;}
+.main .message{width: 1081px;height: 224px;background: #ededed;border-radius: 3px ;border: 1px solid #dcdbe0;margin-bottom: 45px;padding: 12px 17px;font-size: 16px;font-weight: bold;font-family: "微软雅黑";color: #b2b2b2;resize: none;}
+.main .btn{width: 225px;height: 57px;background: #ed5844;border-radius: 4px ;box-shadow: 0 0 8px rgba(0,0,0,.5) inset;font-size: 15px;font-weight: bold;color: #fff;cursor: pointer;}
+

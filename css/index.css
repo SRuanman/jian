@@ -1,0 +1,66 @@
+.banner{height: 520px;background: url(../images/bg.jpg) no-repeat;padding-bottom: 70px;}
+.banner .b_l{height: 422px;width: 315px;padding: 98px 0 0 15px;float: left;}
+.banner li{width:315px;height:85px;background: #ed5844;color: #fff;font-family: arial;font-size: 55px;text-transform: uppercase;margin-bottom: 1px;line-height: 85px;}
+.banner dl{padding-top: 45px;}
+.banner dd{width: 49px;height: 25px;float: left;margin-right: 8px;background: #fff;border: 1px solid #fff;}
+.banner .first{background: #ed5844;}
+.banner .first{border-bottom-color: ;}
+.banner dd:hover{background: #ed5844;}
+.b_r{float: right;padding: 68px 13px 0 0;}
+.b_r img{width: 636px;height: 384px;}
+.main .m1{height: 296px;padding-bottom: 50px;border-bottom: 3px double #9e9e9e;}
+.main .m1 ul{float: left;}
+.main .m1 li{float: left;width: 360px;height: 130px;margin: 0 0 20px 18px;background: url(../images/ser-bg.png) no-repeat;}
+.main .m1 .first{margin: 0 0 20px 0;}
+.main .m1 .pic{width: 67px;height: 123px;background: #ed5844 url(../images/s-icons.png) no-repeat 18px 43px;float: left;}
+.main .m1 .pic1{width: 67px;height: 123px;background: #ed5844 url(../images/s-icons.png) no-repeat -66px 43px;float: left;}
+.main .m1 .pic2{width: 67px;height: 123px;background: #ed5844 url(../images/s-icons.png) no-repeat -144px 43px;float: left;}
+.main .m1 .pic3{width: 67px;height: 123px;background: #ed5844 url(../images/s-icons.png) no-repeat 18px -75px;float: left;}
+.main .m1 .pic4{width: 67px;height: 123px;background: #ed5844 url(../images/s-icons.png) no-repeat -66px -75px;float: left;}
+.main .m1 .pic5{width: 67px;height: 123px;background: #ed5844 url(../images/s-icons.png) no-repeat -144px -75px;float: left;}
+.main .m1 h3{font-family: arial;font-size: 15px;height: 40px;line-height: 40px;padding: 10px 0 0 90px;color: #5d595a;}
+.main .m1 p{font-family: arial;font-size: 13px;height: 20px;line-height: 20px;padding-left: 90px;color: #9e9e9e;}
+.main .m2b{padding: 56px 0;border-bottom: 3px double #dcdcdc;}
+.main .m2{border: 1px solid #9e9e9e;border-left: 3px solid #ed5746;width: 1138px;height: 130px;background: #eeeeee;}
+.main .m2 h4{height: 40px;line-height: 40px;font-family: arial;font-size: 15px;color: #5d5d5d;padding: 30px 0 0 30px;float: left;}
+.main .m2 p{height: 21px;line-height: 21px;font-family: arial;font-size: 12px;color: #a6a6a6;padding-left: 30px ;float: left;}
+.main .btn{height: 57px;width: 155px;float: right;margin:44px 39px 0 0;border-radius: 4px;box-shadow: 0 0 8px rgba(0,0,0,.5) inset;background: #ed5844 url(../images/windows.png) no-repeat 11px 14px;}
+.main .btn p{line-height: 55px;color: #fff;font-size: 15px;padding-left: 51px;}
+.main .m3{height: 575px;border-bottom: 3px double #dcdcdc;position: relative;}
+.main .m3 h3{font-family: arial;font-size: 17px;float: left;position: absolute;left: 0;top: -10px;background: #fff;width: 153px;}
+.main .m3 .pic{width: 274px;height: 470px;background: #eeeeee;margin:49px 14px 0 0;float: left;position: relative;}
+.main .m3 .last{margin-right: 0;}
+.main .m3 img{width: 247px;height: 310px;padding: 14px 0 0 14px;}
+.main .m3 .web{width: 113px;height: 27px;background: #f15549;color: #fff;text-align: center;line-height: 27px;position: absolute;left: 14px;bottom: 146px;font-size: 16px;}
+.main .m3 .web p{font-size: 12px;}
+.main .m3 .icon1{height: 27px;width: 27px;position: absolute;right: 43px;bottom: 146px;background: #ed5844 url(../images/s-icons.png) -243px -83px;}
+.main .m3 .icon2{height: 27px;width: 27px;position: absolute;right: 12px;bottom: 146px;background: #ed5844 url(../images/s-icons.png) -277px -83px;}
+.main .m3 h4{padding: 3px 0 0 14px;height: 46px;line-height: 46px;width: 248px;border-bottom:1px solid #e7e7e7;}
+.main .m3 .text p{padding-left: 14px;height: 23px;line-height: 23px;font-size: 12px;padding-top: 8px;color: #c0c0c0;width: 219px;}
+.main .m4{height:132px;border-bottom: 3px double #dcdcdc;width: 1138px;padding:  56px 0;}
+.main .m4 .m4i{border: 1px solid #9e9e9e;border-left: 3px solid #ed5746;height: 130px;background: #eeeeee url(../images/images/index_embg_03_03.jpg) no-repeat right center;}
+.main .m4i h4{height: 40px;line-height: 40px;font-family: arial;font-size: 15px;color: #5d5d5d;padding: 30px 0 0 30px;float: left;}
+.main .m4i p{height: 21px;line-height: 21px;font-family: arial;font-size: 12px;color: #a6a6a6;padding-left: 30px ;float: left;}
+.main .m5{height: 567px;margin-top: 42px;position: relative;}
+.main .m5l h3{font-size: 18px;position: absolute;left: 0;top: -56px;width: 123px;background: #fff;}
+.main .m5l h4{width: 326px;height: 46px;line-height: 46px;}
+.main .m5l p{height:113px;width:300px;border: 1px solid #cccccc;border-left: none;border-right: none;line-height: 23px;padding:12px 0 9px 0 ;font-size: 12px;color: #a6a6a6;}
+.main .m5l .more{padding-left: 13px;height: 86px;line-height: 86px;font-size: 13px;}
+.main .more img{background: #000;margin: 37px 0 0 7px;height: 12px;width: 13px;}
+.main .more a{color: #000000;}
+.main .m5l .left{float: left;position: relative;}
+.main .m5l .right{float: left;margin-left: 40px;position: relative;}
+.main .m5l .icon1{width:42px;height: 41px;position: absolute;background: #fff url(../images/s-icons.png) -242px -168px;right: 45px;top: 214px;}
+.main .m5l .icon2{width:41px;height: 40px;position: absolute;background: #ed5844 url(../images/s-icons.png)  -291px -123px;right: 1px;top: 215px}
+.main .m5l .icon3{width:42px;height: 41px;position: absolute;background: #fff url(../images/s-icons.png) -242px -122px;right: 45px;top: 214px;}
+.main .m5r{height: 525px;float: right;width: 365px;position: relative;}
+.main .m5r h3{font-size: 18px;width: 147px;background: #fff;position: absolute;left: 0;top: -56px;}
+.main .m5r img{width: 87px;height: 109px;float: left;}
+.main .m5r .title{height: 46px;padding-left: 103px;}
+.main .m5r .title 	p{height: 23px;line-height: 23px;font-size: 16px;font-weight: bold;}
+.main .m5r .web{height: 46px;padding: 8px 0 0 103px;}
+.main .m5r .web p{height: 23px;line-height: 23px;font-size: 14px;}
+.main .m5r .web span{color: #fc5042;}
+.main .m5r .text{float: left;padding-top: 7px;background: url(../images/quotes.png) no-repeat 0 7px;}
+.main .m5r .text p{font-size: 12px;color: #a6a6a6;text-indent: 2em;width: 347px;}
+.main .m5r .text1{height: 192px;}
